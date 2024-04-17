@@ -1,0 +1,21 @@
+{
+  "name": "chiaki_bot",
+  "version": "0.0.1",
+  "description": "An interactive Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "chtest"
+  },
+  "keywords": [
+    "Discord-Bot-Nodejs"
+  ],
+  "author": "chimpa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
